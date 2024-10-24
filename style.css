@@ -14,7 +14,9 @@
 section{
     display: flex;
     justify-content: center;
+    gap: 5%;
 }
+
 #titulo {
     font-size: 30px;
     text-align: center;
