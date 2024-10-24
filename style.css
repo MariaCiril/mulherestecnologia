@@ -39,6 +39,11 @@ section{
     margin: auto;
     height: 400px;
 }
+ .imagem{
+    display: flex;
+    margin: auto;
+    height: 300px;
+ }
 
 
 li{
