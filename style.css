@@ -35,7 +35,7 @@ section{
     height: 600px;
 }
 .imgcentro {
-    display: flex;
+    display: block;
     margin: auto;
     height: 400px;
 }
