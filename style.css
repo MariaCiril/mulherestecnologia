@@ -11,6 +11,10 @@
     gap: 30%;
 }
 
+section{
+    display: flex;
+    justify-content: center;
+}
 #titulo {
     font-size: 30px;
     text-align: center;
