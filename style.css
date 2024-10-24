@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: black;
+    background-color: #2E4959;
     color: rgb(184, 209, 73);
     padding-top: 30px;
     padding-bottom: 30px;
@@ -42,12 +42,13 @@ li{
 }
 
 /*onde vai os codigos abaixo: li ou li a?????? */
-    text-decoration: none;
-    color: ;
+
 
 
 li a{
     font-size: 50px;
+    text-decoration: none;
+    color: #2E4959 ;
 
 }
 
