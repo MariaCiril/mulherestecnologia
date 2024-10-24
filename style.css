@@ -15,7 +15,7 @@ body {
     display: flex;
     justify-content:center;
     gap: 30%;
-    margin-bottom: 2%;
+    margin-bottom: 1em;
 }
 
 section{
