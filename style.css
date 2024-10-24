@@ -45,15 +45,10 @@ li{
 
 }
 
-/*onde vai os codigos abaixo: li ou li a?????? */
-
-
-
 li a{
-    font-size: 20px;
+    font-size: 30px;
     text-decoration: none;
     color: #2E4959 ;
-
 }
 
 button{
