@@ -31,18 +31,10 @@ section{
     height: 500px;
 }
 
-nav{
-    padding-top: 0px;
-    padding-bottom: 0px;
-    font-size: ;
-}
-
 li{
-    text-align: ;
     padding: 2em;
     font-size: 18px ;
     font-family: Verdana ;
-
 }
 
 li a{
