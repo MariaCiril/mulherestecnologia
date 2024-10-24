@@ -16,6 +16,8 @@ section{
     justify-content: center;
     align-items: center;
     gap: 15%;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 #titulo {
