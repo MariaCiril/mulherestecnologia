@@ -25,10 +25,6 @@ section{
     text-align: center;
 }
 
-p {
-    
-}
-
 .imgindex {
     display: block;
     margin: auto;
@@ -43,7 +39,7 @@ nav{
 
 li{
     text-align: ;
-    /* padding: 0px 50px 0px 10px; */
+    padding: 2em;
     font-size: 18px ;
     font-family: Verdana ;
 
@@ -57,7 +53,7 @@ li a{
     font-size: 20px;
     text-decoration: none;
     color: #2E4959 ;
-    padding: 2em;
+
 }
 
 button{
