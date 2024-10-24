@@ -30,6 +30,11 @@ section{
     margin: auto;
     height: 500px;
 }
+.imagem { 
+    display: block;
+    margin: auto;
+    height: 300px;
+}
 
 li{
     padding: 2em;
