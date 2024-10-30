@@ -1,6 +1,7 @@
 body {
     background-color:#D9B1A3;
     color:#2E4959;
+    border: solid rgba(190, 19, 164, 0.801);
 }
 
 .cabecalho{
